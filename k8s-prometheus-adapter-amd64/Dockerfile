@@ -1,3 +1,2 @@
-FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.5.0
-MAINTAINER walk1ng <iliwgg@gmail.com>
+FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.0
 
